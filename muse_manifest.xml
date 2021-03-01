@@ -1,0 +1,41 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tao-tao-ji.com" resolutions="1x" timestamp="1614580298372">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="____1.css" crc="4284132534" ref="茶山風光"/>
+    <file name="index.css" crc="4126732278" ref="index"/>
+    <file name="____.css" crc="202392012" ref="龍井簡介"/>
+    <file name="____2.css" crc="4102117530" ref="生產過程"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:龍井簡介:茶山風光:生產過程"/>
+    <file name="museutils.js" crc="3939489907" ref="index:龍井簡介:茶山風光:生產過程"/>
+    <file name="whatinput.js" crc="86476730" ref="index:龍井簡介:茶山風光:生產過程"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:龍井簡介:茶山風光:生產過程"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:龍井簡介:茶山風光:生產過程"/>
+    <file name="require.js" crc="4177726516" ref="index:龍井簡介:茶山風光:生產過程"/>
+  </folder>
+  <folder name="images">
+    <file name="茶叶logo 彩 白底.jpg" crc="4095062999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tree.jpg" crc="116153916" seo="true" ref="茶山風光">
+      <caption webpage="茶山風光" alt=""/>
+    </file>
+    <file name="img_20210222_155217.jpg" crc="3781761070" seo="true" ref="茶山風光">
+      <caption webpage="茶山風光" alt=""/>
+    </file>
+    <file name="dsc_0016.jpg" crc="465011975" seo="true" ref="茶山風光">
+      <caption webpage="茶山風光" alt=""/>
+    </file>
+    <file name="dsc_0036.jpg" crc="230145714" seo="true" ref="茶山風光">
+      <caption webpage="茶山風光" alt=""/>
+    </file>
+    <file name="卖茶叶-crop-u249.jpg" crc="41360699" seo="true" ref="生產過程">
+      <caption webpage="生產過程" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3886671931" seo="true" mt="1614580277856" redirect="true"/>
+  <file name="龍井簡介.html" crc="500186768" seo="true" mt="1614578356743" redirect="true"/>
+  <file name="茶山風光.html" crc="341747405" seo="true" mt="1614579974689" redirect="true"/>
+  <file name="生產過程.html" crc="3895849012" seo="true" mt="1614580220505" redirect="true"/>
+</manifest>
